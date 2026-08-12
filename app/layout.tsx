@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   description: "연인, 썸, 친구, 동료와 함께 답하고 두 사람만의 상세 케미 리포트를 확인해보세요.",
   verification: {
     google: "lSJTeWuV8EZQIBkHAfSRPQlK59uyaYjsnYH_DhIv2r4",
+    other: {
+      "naver-site-verification": "b0659947030829400a819f9d3a607d3feb044c3e",
+    },
   },
   other: {
     "google-adsense-account": "ca-pub-7373977880685678",
